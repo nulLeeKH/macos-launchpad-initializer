@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/macos-launchpad-initializer.svg)
 
 # macos-launchpad-initializer
-The launchpad initializer for macOS.
+The launchpad initializer for macOS
 
 ## How to Use
 Open terminal in macOS computer and type this command to set your launchpad to default status.
