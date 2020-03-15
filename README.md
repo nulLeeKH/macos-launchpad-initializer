@@ -9,11 +9,11 @@ The launchpad initializer for macOS
 Open terminal in macOS computer and type this command to set your launchpad to default status.
 
 ```
-git clone https://github.com/nulLeeKH/macos-launchpad-initializer && cd macos-launchpad-initializer && chmod 744 macos_launchpad_initializer.sh && ./macos_launchpad_initializer.sh
+curl -fsSL https://raw.githubusercontent.com/nulLeeKH/macos-launchpad-initializer/master/macos_launchpad_initializer.sh | sh
 ```
 
 Open terminal in macOS computer and type this command to set your launchpad to default status with smaller icon. (9*9)
 
 ```
-git clone https://github.com/nulLeeKH/macos-launchpad-initializer && cd macos-launchpad-initializer && chmod 744 macos_launchpad_initializer.sh && ./macos_launchpad_initializer_99.sh
+curl -fsSL https://raw.githubusercontent.com/nulLeeKH/macos-launchpad-initializer/master/macos_launchpad_initializer_99.sh | sh
 ```
